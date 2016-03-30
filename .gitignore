@@ -1,0 +1,10 @@
+﻿Advanced Combat Tracker.exe
+GammaJul.LgLcd.dll
+ICSharpCode.SharpZipLib.dll
+
+*.sln
+*.pdb
+
+obj/
+bin/Debug/
+.vs/
