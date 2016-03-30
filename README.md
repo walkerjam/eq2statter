@@ -5,7 +5,9 @@ will display a graph of combat stats during parsed encounters.
 
 ## Setup
 1. Download ACT
-2. Download this plugin (__statter.dll__) to a location on your hard drive
+2. Download the plugin
+ [statter.dll](https://github.com/walkerjam/eq2statter/blob/master/bin/Release/Statter.dll?raw=true)
+ to a location on your hard drive
 3. Setup ACT as you would normally
 4. Open ACT and select the __Plugins__ tab
 5. Click __Browse...__, and select the location where you saved the plugin
